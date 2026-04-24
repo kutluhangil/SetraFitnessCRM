@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  // 'standalone' is for Docker self-hosting only. Remove when deploying to Vercel.
+  ...(process.env.DOCKER_BUILD === 'true' ? { output: 'standalone' } : {}),
   reactStrictMode: true,
   images: {
     remotePatterns: [
