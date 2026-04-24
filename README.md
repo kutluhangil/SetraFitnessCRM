@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/FitCRM-v0.1-000000?style=for-the-badge&logoColor=white" alt="version" />
+<img src="https://img.shields.io/badge/Setra-v0.1-000000?style=for-the-badge&logoColor=white" alt="version" />
 <img src="https://img.shields.io/badge/Built_with-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
 <img src="https://img.shields.io/badge/TailwindCSS-v3-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
@@ -12,75 +12,88 @@
 <br /><br />
 
 ```text
-███████╗██╗████████╗ ██████╗██████╗ ███╗   ███╗
-██╔════╝██║╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-█████╗  ██║   ██║   ██║     ██████╔╝██╔████╔██║
-██╔══╝  ██║   ██║   ██║     ██╔══██╗██║╚██╔╝██║
-██║     ██║   ██║   ╚██████╗██║  ██║██║ ╚═╝ ██║
-╚═╝     ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝
+ ███████╗███████╗████████╗██████╗  █████╗ 
+ ██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
+ ███████╗█████╗     ██║   ██████╔╝███████║
+ ╚════██║██╔══╝     ██║   ██╔══██╗██╔══██║
+ ███████║███████╗   ██║   ██║  ██║██║  ██║
+ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### **One Dashboard. Every Client.** — Track progress, manage plans & collect payments.
 
-[Canlı Uygulama](https://fitcrm.app) · [Hata Bildir](https://github.com/kutluhangil/SetraFitnessCRM/issues) · [Özellik Öner](https://github.com/kutluhangil/SetraFitnessCRM/issues)
+[Live App](https://setra.app) · [Report Bug](https://github.com/kutluhangil/SetraFitnessCRM/issues) · [Request Feature](https://github.com/kutluhangil/SetraFitnessCRM/issues)
 
 </div>
 
 ---
 
-## ✦ FitCRM Nedir?
+## ✦ What is Setra?
 
-**FitCRM**, solo fitness koçları ve küçük stüdyolar için tasarlanmış dikey bir CRM platformudur. Genel CRM'lerin (HubSpot, Salesforce) fitness iş akışını anlamadığı noktada devreye girer.
+**Setra** is a vertical CRM platform built specifically for solo fitness coaches and small studios. It steps in exactly where generic CRMs (HubSpot, Salesforce) fail to understand the fitness workflow.
+
+Stop tracking clients in messy spreadsheets. Every workout plan, every payment reminder, and every progress entry — stored securely in the cloud. Built for speed, deep analytical insight, and a stunning **"Dark Luxury"** dark-mode experience.
+
+---
+
+<details>
+<summary><strong>🇹🇷 Türkçe Açıklama</strong></summary>
+
+<br />
+
+**Setra**, solo fitness koçları ve küçük stüdyolar için tasarlanmış dikey bir CRM platformudur. Genel CRM'lerin (HubSpot, Salesforce) fitness iş akışını anlamadığı noktada devreye girer.
 
 Müşteri takibini messy Excel tablolarında yapmayı bırak. Her antrenman planı, her ödeme hatırlatması ve her ilerleme kaydı — güvenli bir şekilde bulutta saklansın. Hız, derin analitik görünüm ve göz alıcı **"Karanlık Lüks"** koyu mod tasarımı için inşa edildi.
 
----
-
-## ⚡ Özellikler
-
-| Özellik | Açıklama |
-|---------|----------|
-| 📊 **Kontrol Paneli** | Toplam müşteri, aylık gelir, gecikmiş ödeme ve trend grafikleri tek bakışta |
-| 👥 **Müşteri Yönetimi** | Profil, etiketler, tıbbi notlar, ödeme planı ve fitness hedefleri tek ekranda |
-| 🏋️ **Antrenman Builder** | Sürükle-bırak editör ile haftalık planlar, yeniden kullanılabilir şablonlar ve süper set tanımı |
-| 📈 **İlerleme Takibi** | Vücut ölçümleri grafikleri ve önce/sonra fotoğraf karşılaştırması |
-| 💳 **Ödeme Sistemi** | Aylık ücretleri otomatik oluştur, hatırlatma e-postası gönder, geliri grafikle izle |
-| ⚡ **Otomasyon Motoru** | Ödeme hatırlatma, hoş geldin mesajı, doğum günü kutlaması — bir kez kur, kendisi çalışsın |
-| 🌍 **İki Dil Desteği** | Türkçe ve İngilizce arasında sorunsuz geçiş — tüm arayüz dahil |
-| 🔐 **Güvenli Auth** | Supabase Auth + Row Level Security ile her koçun verisi tamamen izole |
-| 🚀 **Self-Hosted** | Docker + Nginx ile kendi sunucuna deploy, Cloudflare Tunnel ile kolay SSL |
+</details>
 
 ---
 
-## 🖼️ Ekran Görüntüleri
+## ⚡ Features
 
-> *(Yakında — FitCRM arayüzünün yüksek kaliteli mockup&apos;ları)*
+| Feature | Description |
+|---------|-------------|
+| 📊 **Dashboard** | Total clients, monthly revenue, overdue payments and trend charts at a glance |
+| 👥 **Client Management** | Profile, tags, medical notes, payment plan and fitness goals in one screen |
+| 🏋️ **Workout Builder** | Drag-and-drop editor for weekly plans, reusable templates and superset definitions |
+| 📈 **Progress Tracking** | Body measurement charts and before/after photo comparisons |
+| 💳 **Payment System** | Auto-generate monthly invoices, send reminder emails, visualize revenue |
+| ⚡ **Automation Engine** | Payment reminders, welcome messages, birthday wishes — set once, run forever |
+| 🌍 **Bilingual Interface** | Seamless toggle between Turkish & English — across the entire UI |
+| 🔐 **Secure Auth** | Supabase Auth + Row Level Security ensures complete data isolation per coach |
+| 🚀 **Self-Hosted** | Deploy on your own server via Docker + Nginx, or use Cloudflare Tunnel for easy SSL |
 
 ---
 
-## 🛠️ Teknoloji Stack
+## 🖼️ Screenshots
+
+> *(Coming soon — High-quality mockups of the Setra interface)*
+
+---
+
+## 🛠️ Tech Stack
 
 ```
 Frontend        →  Next.js 14 (App Router) · TypeScript (strict) · Tailwind CSS v3 · Framer Motion
-UI Bileşenleri  →  Özel tasarım sistemi (Button, Card, Badge, Avatar, Input, StatCard...)
-Grafikler       →  Recharts (AreaChart — dark theme custom tooltip)
-i18n            →  Context tabanlı TR/EN provider + public/locales sözlük sistemi
-Fontlar         →  Outfit (display + body) · JetBrains Mono (code / sayısal)
-Veritabanı      →  Supabase (PostgreSQL + RLS + Realtime + Storage)
-Auth            →  Supabase Auth (email/password + session yönetimi)
-Ödeme           →  Lemon Squeezy (SaaS abonelik + webhook imza doğrulama)
-E-posta         →  Resend (otomasyon bildirimleri)
-Zamanlı Görev   →  Supabase pg_cron + Edge Functions
+UI Components   →  Custom design system (Button, Card, Badge, Avatar, Input, StatCard...)
+Charts          →  Recharts (AreaChart — dark theme with custom tooltips)
+i18n            →  Context-driven TR/EN provider + public/locales dictionary system
+Fonts           →  Outfit (display + body) · JetBrains Mono (code / numeric)
+Database        →  Supabase (PostgreSQL + RLS + Realtime + Storage)
+Auth            →  Supabase Auth (email/password + session management)
+Payments        →  Lemon Squeezy (SaaS subscriptions + webhook signature verification)
+Email           →  Resend (automation notifications)
+Scheduled Jobs  →  Supabase pg_cron + Edge Functions
 Deployment      →  Docker (multi-stage standalone build) + Nginx · Cloudflare Tunnel
 ```
 
 ---
 
-## 🏗️ Mimari
+## 🏗️ Architecture
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
-│                         FITCRM CLIENT                          │
+│                          SETRA CLIENT                          │
 │                                                                │
 │  ┌───────────────┐  ┌───────────────┐  ┌─────────────────────┐│
 │  │  I18n Context │  │  Next.js 14   │  │   Framer Motion     ││
@@ -92,39 +105,39 @@ Deployment      →  Docker (multi-stage standalone build) + Nginx · Cloudflare
          │                  │                  │
 ┌────────────────┐  ┌───────────────┐  ┌───────────────────┐
 │   Supabase     │  │ Lemon Squeezy │  │     Resend        │
-│ (DB · Auth ·  │  │  (Ödeme ·    │  │  (E-posta ·       │
-│  Storage ·    │  │   Webhook ·  │  │   Otomasyon       │
-│  Realtime)    │  │   Abonelik)  │  │   Bildirimleri)   │
+│ (DB · Auth ·  │  │  (Payments ·  │  │  (Email ·         │
+│  Storage ·    │  │   Webhook ·   │  │   Automation      │
+│  Realtime)    │  │   Billing)    │  │   Notifications)  │
 └────────────────┘  └───────────────┘  └───────────────────┘
 ```
 
 ---
 
-## 📐 Proje Yapısı
+## 📐 Project Structure
 
 ```text
 SetraFitnessCRM/
 ├── public/
 │   └── locales/
-│       ├── tr/common.json         # Türkçe çeviriler
-│       └── en/common.json         # İngilizce çeviriler
+│       ├── tr/common.json         # Turkish translations
+│       └── en/common.json         # English translations
 ├── src/
 │   ├── app/
 │   │   ├── (auth)/                # Login · Register · Forgot Password
-│   │   ├── dashboard/             # Dashboard shell + tüm alt sayfalar
-│   │   │   ├── clients/           # Müşteri listesi, detay, yeni ekleme
-│   │   │   ├── workouts/          # Antrenman planları ve builder
-│   │   │   ├── payments/          # Ödeme genel bakış ve geçmiş
-│   │   │   ├── messages/          # Mesaj merkezi ve şablonlar
-│   │   │   ├── progress/          # İlerleme grafikleri
-│   │   │   ├── automations/       # Otomasyon kuralları ve loglar
-│   │   │   └── settings/          # Profil, abonelik, entegrasyonlar
+│   │   ├── dashboard/             # Dashboard shell + all sub-pages
+│   │   │   ├── clients/           # Client list, detail view, new client form
+│   │   │   ├── workouts/          # Workout plans and drag-and-drop builder
+│   │   │   ├── payments/          # Payment overview and history
+│   │   │   ├── messages/          # Message center and templates
+│   │   │   ├── progress/          # Progress charts and photo comparison
+│   │   │   ├── automations/       # Automation rules and execution logs
+│   │   │   └── settings/          # Profile, subscription, integrations
 │   │   ├── api/
 │   │   │   ├── webhooks/          # Lemon Squeezy webhook handler
-│   │   │   ├── cron/              # Ödeme hatırlatma, auto-message
+│   │   │   ├── cron/              # Payment reminders, auto-messages
 │   │   │   └── health/            # Health check endpoint
-│   │   ├── globals.css            # CSS değişkenleri + animasyonlar
-│   │   └── layout.tsx             # Root layout (font, i18n provider)
+│   │   ├── globals.css            # CSS variables + keyframe animations
+│   │   └── layout.tsx             # Root layout (fonts, i18n provider)
 │   ├── components/
 │   │   ├── ui/                    # Atomic: Button, Card, Badge, Input...
 │   │   ├── layout/                # Sidebar, Topbar, MobileNav
@@ -134,9 +147,9 @@ SetraFitnessCRM/
 │   │   ├── supabase/              # client · server · admin · middleware
 │   │   ├── i18n/                  # config · dictionaries · provider
 │   │   └── utils/                 # cn · date · currency · motion
-│   └── middleware.ts              # Auth koruması + session yenileme
+│   └── middleware.ts              # Route protection + session refresh
 ├── supabase/
-│   └── migrations/                # 001–008 SQL migration dosyaları
+│   └── migrations/                # 001–008 SQL migration files + RLS policies
 ├── Dockerfile                     # Multi-stage standalone build
 ├── docker-compose.yml
 ├── nginx.conf
@@ -145,161 +158,161 @@ SetraFitnessCRM/
 
 ---
 
-## 🚀 Başlarken
+## 🚀 Getting Started
 
-### Gereksinimler
+### Prerequisites
 
 - Node.js `>= 18`
-- Supabase hesabı (Auth + PostgreSQL + Storage aktif)
-- Lemon Squeezy hesabı (ödeme entegrasyonu için)
-- Resend API anahtarı (e-posta otomasyonları için)
+- Supabase account (Auth + PostgreSQL + Storage enabled)
+- Lemon Squeezy account (for payment integration)
+- Resend API key (for email automations)
 
-### Yerel Geliştirme
+### Local Development
 
 ```bash
-# Repoyu klonla
+# Clone the repository
 git clone https://github.com/kutluhangil/SetraFitnessCRM.git
 cd SetraFitnessCRM
 
-# Bağımlılıkları kur
+# Install dependencies
 npm install
 
-# Ortam değişkenlerini yapılandır
+# Configure environment
 cp .env.example .env.local
-# Supabase ve Lemon Squeezy kimlik bilgilerini doldur
+# Fill in your Supabase and Lemon Squeezy credentials
 
-# Geliştirme sunucusunu başlat
+# Start the dev server
 npm run dev
 ```
 
-Uygulama `http://localhost:3000` adresinde çalışır.
+App runs at `http://localhost:3000`.
 
-### Veritabanı Kurulumu
+### Database Setup
 
-Migration dosyaları `supabase/migrations/` altında sıralıdır.
+Migration files are located under `supabase/migrations/` in sequential order.
 
 ```bash
-# Supabase CLI ile (önerilen)
+# With Supabase CLI (recommended)
 supabase start
 supabase db reset
 
-# Ya da Supabase Studio > SQL Editörü üzerinden
-# 001_auth_profiles.sql → 008_rls_policies.sql sırasıyla çalıştır
+# Or via Supabase Studio > SQL Editor
+# Run 001_auth_profiles.sql → 008_rls_policies.sql in order
 ```
 
-### Scriptler
+### Scripts
 
-| Komut | Açıklama |
-|-------|----------|
-| `npm run dev` | Geliştirme sunucusu (port 3000) |
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Development server (port 3000) |
 | `npm run build` | Production build |
-| `npm start` | Production sunucu |
-| `npm run lint` | ESLint kontrolü |
-| `npm run type-check` | TypeScript tip kontrolü |
+| `npm start` | Production server |
+| `npm run lint` | ESLint check |
+| `npm run type-check` | TypeScript type check |
 
-### Ortam Değişkenleri
+### Environment Variables
 
-| Değişken | Açıklama | Zorunlu |
-|----------|----------|:-------:|
-| `NEXT_PUBLIC_SUPABASE_URL` | Supabase Proje URL&apos;si | ✓ |
-| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase Anon Key | ✓ |
-| `SUPABASE_SERVICE_ROLE_KEY` | Service Role (webhook için) | ✓ |
-| `LEMON_SQUEEZY_API_KEY` | Lemon Squeezy API Key | ✓ |
-| `LEMON_SQUEEZY_WEBHOOK_SECRET` | Webhook imza doğrulama | ✓ |
-| `LEMON_SQUEEZY_STORE_ID` | Mağaza ID&apos;si | ✓ |
-| `RESEND_API_KEY` | E-posta gönderimi | ✓ |
-| `EMAIL_FROM` | Gönderici e-posta adresi | ✓ |
-| `NEXT_PUBLIC_APP_URL` | Üretim URL&apos;si | ✓ |
-| `CRON_SECRET` | Cron endpoint güvenliği | ✓ |
-
----
-
-## 🔒 Güvenlik & Veri Gizliliği
-
-| Katman | Uygulama |
-|--------|----------|
-| **Veritabanı** | Supabase RLS her tabloda aktif — hiçbir koç başkasının verisini okuyamaz |
-| **Kimlik Doğrulama** | Supabase Auth güvenli oturumlar + middleware ile rota koruması |
-| **Webhook** | HMAC-SHA256 imza doğrulaması ile Lemon Squeezy webhook güvenliği |
-| **API** | `CRON_SECRET` bearer token ile tüm cron endpoint&apos;leri korumalı |
-| **Çevre Değişkenleri** | Service role key ve API key&apos;ler asla client bundle&apos;a sızmaz |
-| **Hata Yönetimi** | Tüm asenkron Supabase çağrıları try/catch sınırları içinde |
+| Variable | Description | Required |
+|----------|-------------|:--------:|
+| `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL | ✓ |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon key | ✓ |
+| `SUPABASE_SERVICE_ROLE_KEY` | Service role key (webhooks) | ✓ |
+| `LEMON_SQUEEZY_API_KEY` | Lemon Squeezy API key | ✓ |
+| `LEMON_SQUEEZY_WEBHOOK_SECRET` | Webhook signature secret | ✓ |
+| `LEMON_SQUEEZY_STORE_ID` | Store ID | ✓ |
+| `RESEND_API_KEY` | Email delivery key | ✓ |
+| `EMAIL_FROM` | Sender email address | ✓ |
+| `NEXT_PUBLIC_APP_URL` | Production URL | ✓ |
+| `CRON_SECRET` | Cron endpoint bearer token | ✓ |
 
 ---
 
-## 💳 Abonelik Planları
+## 🔒 Security & Data Privacy
 
-| Plan | Müşteri Limiti | Aylık (TRY) | Yıllık (TRY) |
-|------|:-------------:|:-----------:|:------------:|
-| **Deneme** | 5 | Ücretsiz (14 gün) | — |
-| **Solo** | 50 | ₺799/ay | ₺7.670/yıl |
-| **Stüdyo** | 200 | ₺2.199/ay | ₺21.110/yıl |
+| Layer | Implementation |
+|-------|----------------|
+| **Database** | Supabase RLS active on every table — no coach can query another's data |
+| **Authentication** | Supabase Auth secure sessions + middleware-level route protection |
+| **Webhook** | HMAC-SHA256 signature verification on all Lemon Squeezy events |
+| **API** | `CRON_SECRET` bearer token protects all cron endpoints |
+| **Environment** | Service role keys and API keys never leak into the client bundle |
+| **Error Handling** | All async Supabase calls wrapped in try/catch boundaries |
 
-USD fiyatlandırma da mevcuttur. Ödeme altyapısı Lemon Squeezy üzerinden çalışır (Türkiye&apos;den satış desteği).
+---
+
+## 💳 Subscription Plans
+
+| Plan | Client Limit | Monthly (TRY) | Yearly (TRY) |
+|------|:------------:|:-------------:|:------------:|
+| **Trial** | 5 | Free (14 days) | — |
+| **Solo** | 50 | ₺799/mo | ₺7,670/yr |
+| **Studio** | 200 | ₺2,199/mo | ₺21,110/yr |
+
+USD pricing is also available. Payments are processed via Lemon Squeezy (supports sales from Turkey).
 
 ---
 
 ## 🐳 Docker Deployment
 
 ```bash
-# Üretim ortamı için .env dosyasını hazırla
+# Prepare your production .env file
 cp .env.example .env
 
-# Docker image'ını build et ve başlat
+# Build and start the Docker image
 docker compose up -d --build
 
-# Nginx reverse proxy otomatik devreye girer (port 80)
-# Cloudflare Tunnel ile SSL ve domain yönlendirme ekle
+# Nginx reverse proxy starts automatically on port 80
+# Add Cloudflare Tunnel for SSL and domain routing
 ```
 
 ---
 
-## 🗺️ Yol Haritası
+## 🗺️ Roadmap
 
-- [x] Faz 1 — Temel altyapı (Next.js, Tailwind, Supabase, i18n, Auth)
-- [x] Faz 2 — Veritabanı migration&apos;ları + RLS politikaları
-- [x] Faz 3 — Dashboard shell + overview sayfası
+- [x] Phase 1 — Core infrastructure (Next.js, Tailwind, Supabase, i18n, Auth)
+- [x] Phase 2 — Database migrations + RLS policies
+- [x] Phase 3 — Dashboard shell + overview page
 - [x] Landing — Hero, Features, Pricing, CTA
-- [ ] Faz 4 — Müşteri yönetimi (CRUD, filtreler, limit kontrolü)
-- [ ] Faz 5 — Antrenman builder (drag & drop, egzersiz kütüphanesi)
-- [ ] Faz 6 — İlerleme takibi (grafikler, fotoğraf karşılaştırma)
-- [ ] Faz 7 — Ödeme sistemi (manuel + otomatik, gelir grafiği)
-- [ ] Faz 8 — Mesajlaşma (thread görünüm, şablonlar, e-posta)
-- [ ] Faz 9 — Otomasyon motoru + cron endpoint&apos;leri
-- [ ] Faz 10 — Lemon Squeezy checkout + webhook entegrasyonu
-- [ ] Faz 12 — Production sertleştirme (CI/CD, health check)
-- [ ] Faz 13 — PWA, erişilebilirlik, performans optimizasyonu
+- [ ] Phase 4 — Client management (CRUD, filters, limit enforcement)
+- [ ] Phase 5 — Workout builder (drag & drop, exercise library)
+- [ ] Phase 6 — Progress tracking (charts, photo comparison)
+- [ ] Phase 7 — Payment system (manual + auto-generate, revenue chart)
+- [ ] Phase 8 — Messaging (thread view, templates, email delivery)
+- [ ] Phase 9 — Automation engine + cron endpoints
+- [ ] Phase 10 — Lemon Squeezy checkout + webhook integration
+- [ ] Phase 12 — Production hardening (CI/CD, health check)
+- [ ] Phase 13 — PWA, accessibility, performance optimization
 
 ---
 
-## 🤝 Katkı
+## 🤝 Contributing
 
-Katkılar memnuniyetle karşılanır. Bir issue açmaktan veya pull request göndermekten çekinme.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-1. Repoyu fork&apos;la
-2. Feature branch&apos;ini oluştur (`git checkout -b feature/harika-ozellik`)
-3. Değişikliklerini commit et (`git commit -m 'feat: harika özellik eklendi'`)
-4. Branch&apos;e push et (`git push origin feature/harika-ozellik`)
-5. Pull Request aç
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ---
 
-## 📄 Lisans
+## 📄 License
 
-MIT Lisansı kapsamında dağıtılmaktadır. Ayrıntılar için `LICENSE` dosyasına bakın.
+Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
 <div align="center">
 
-Hassasiyetle inşa edildi — [kutluhangil](https://github.com/kutluhangil)
+Built with precision by [kutluhangil](https://github.com/kutluhangil)
 
 <br />
 
-**[fitcrm.app](https://fitcrm.app)**
+**[setra.app](https://setra.app)**
 
 <br />
 
-*Faydalı bulduysan ⭐ vermeyi düşün*
+*If you find this useful, consider giving it a ⭐*
 
 </div>
